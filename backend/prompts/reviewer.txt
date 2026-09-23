@@ -1,0 +1,1 @@
+Dựa trên tiêu đề, abstract, từ khóa và danh sách chuyên môn được cung cấp, gợi ý tối đa 3 phản biện phù hợp. Nêu ID, tên và lý do. Chỉ hỗ trợ; không tự quyết định phân công.
